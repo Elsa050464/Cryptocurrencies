@@ -10,8 +10,11 @@ Based on this knowledge, we will create an analysis for a client who is preparin
  
 ## Results:
 The first Visualization is the Elbow Curve using K-means Algorithm, where we decide what is the best number of clusters to optimize the modeling of the data
+
 ![image](https://user-images.githubusercontent.com/93121665/157001701-e1298022-6811-4e00-b08e-b50e5fdf9c43.png)
 
 We used PCA (Principal Component Analysis) Model to apply dimensionality reduction on the scaled dataset
+
+
 Finally, we used Hvplot scatter plot since we use a non-continuous axes  
 We can clearly see the all the cryptocurrencies are categorized into four groups. 
