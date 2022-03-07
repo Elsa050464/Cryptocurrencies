@@ -21,4 +21,4 @@ Finally, we used Hvplot scatter plot since we are using a non-continuous axes
 
 ![image](https://user-images.githubusercontent.com/93121665/157002131-570f6fae-9586-41e7-b5ba-d50199a43df4.png)
 
-We can clearly see the all the cryptocurrencies are categorized into four groups. 
+We can clearly see the all the cryptocurrencies are categorized into four groups/clusters. 
