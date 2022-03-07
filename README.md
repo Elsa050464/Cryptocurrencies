@@ -14,6 +14,7 @@ The first Visualization is the Elbow Curve using K-means Algorithm, where we dec
 ![image](https://user-images.githubusercontent.com/93121665/157001701-e1298022-6811-4e00-b08e-b50e5fdf9c43.png)
 
 We used PCA (Principal Component Analysis) Model to apply dimensionality reduction on the scaled dataset
+![image](https://user-images.githubusercontent.com/93121665/157001966-42504863-19fa-467a-893a-81495ed0ae41.png)
 
 
 Finally, we used Hvplot scatter plot since we use a non-continuous axes  
